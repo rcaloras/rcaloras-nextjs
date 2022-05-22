@@ -9,7 +9,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="px-4 py-5 my-5 text-center flex-grow-1">
-        <h1 className="display-5 fw-bold">Next.js + Bootstrap ❤️</h1>
+        <h1 className="display-5 fw-bold">Rcaloras next.js Site ❤️</h1>
         <div className="col-lg-6 mx-auto">
           <p className="lead mb-4">
             Quickly design and customize responsive mobile-first sites with Bootstrap, the
