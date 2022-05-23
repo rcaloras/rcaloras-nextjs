@@ -13,7 +13,7 @@ export default function About() {
             <div className="col-md-8 p-0">
                 <div className="hero-image"/>
             </div>
-            <div className="col-md-4">
+            <div className="col-md-4 p-0">
                 <div className="body-content">
                     <section className="name-headline">
                         <section>
