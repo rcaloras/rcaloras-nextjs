@@ -26,7 +26,7 @@ export default function About() {
                     </section>
                     <section className="bio">
                         <p>Full time jump shooter, entrepreneur, and hacker. I like to start things, and build stuff.
-                                I'm a musician at heart and will talk about music for hours.
+                                Im a musician at heart and will talk about music for hours.
                                 Always have a bag packed for my next adventure.</p>
                     </section>
                 </div>

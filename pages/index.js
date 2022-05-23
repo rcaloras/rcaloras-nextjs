@@ -23,13 +23,13 @@ export default function Home() {
                         <h1 className="name">Ryan Caloras</h1>
                     </section>
                     <section>
-                        <p className='headline'>Engineering Manager and Entrepreneur in New York</p>
+                        <p className="headline">Engineering Manager and Entrepreneur in New York</p>
                     </section>
                     <div className="profile-divider"/>
                 </section>
                 <section className="bio">
                     <p>Full time jump shooter, entrepreneur, and hacker. I like to start things, and build stuff.
-                            I'm a musician at heart and will talk about music for hours.
+                            Im a musician at heart and will talk about music for hours.
                             Always have a bag packed for my next adventure.</p>
                 </section>
             </div>
