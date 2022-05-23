@@ -10,6 +10,18 @@ a {
   color: inherit;
   text-decoration: none;
 }
+.top-container {
+  padding: 0 !important;
+}
+.hero-image {
+  background-image: url(/images/IMG_1832.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  position: fixed;
+  min-height: 100%;
+  min-width: 60%;
+}
 
 * {
   box-sizing: border-box;
