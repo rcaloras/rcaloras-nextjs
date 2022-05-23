@@ -13,15 +13,49 @@ a {
 .top-container {
   padding: 0 !important;
 }
+
+.body-content {
+  position: relative;
+  top: 30%;
+  padding: 0 100px;
+}
+
+.name {
+  font-size: 25px;
+  line-height: 1.2;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 700;
+  margin: 0;
+  color: #333;
+}
+.headline {
+  font-size: 16px;
+  line-height: 1.2;
+  font-weight: 700;
+  margin: 0;
+}
+.profile-divider {
+  height: 0;
+  background: transparent;
+  border-top: 1px solid black;
+  border-bottom: 1px solid white;
+  opacity: .16;
+  background-position: initial initial;
+  background-repeat: initial initial;
+  margin: 8px 0 15px 0;
+  width: auto;
+}
+
 .hero-image {
   background-image: url(/images/IMG_1832.jpg);
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  position: fixed;
   min-height: 100%;
-  min-width: 60%;
 }
+
+
 
 * {
   box-sizing: border-box;
