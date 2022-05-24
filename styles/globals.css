@@ -58,7 +58,7 @@ a {
 }
 
 .bio {
-  margin-top: 24px;
+
 }
 
 .meta-header {
@@ -68,20 +68,6 @@ a {
   letter-spacing: 2px;
   color: #999;
   margin-bottom: 5px;
-}
-
-#contact-btn {
-  margin-top: 30px;
-  width: 100%;
-  background-color: #26A3D9;
-  border-color: #26A3D9;
-  color: #fff;
-  padding: 10px 0;
-  font-size: 18px;
-}
-
-.contact-span {
-  margin-left: 5px;
 }
 
 
