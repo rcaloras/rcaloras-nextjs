@@ -47,6 +47,9 @@ export default function Home() {
                       <li className="fs-2">
                       <a className="icon-primary" title="Github" href="https://github.com/rcaloras" target="_blank"><i class="bi bi-github"></i></a>
                       </li>
+                      <li className="fs-2">
+                      <a className="icon-primary" title="Github" href="https://stackoverflow.com/users/1282124/rccola" target="_blank"><i class="bi bi-stack-overflow"></i></a>
+                      </li>
                     </ul>
                 </section>
             </div>
