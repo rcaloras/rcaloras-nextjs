@@ -53,6 +53,11 @@
     background-position: 50% 50%;
     background-repeat: no-repeat;
     min-height: 100%;
+
+    @media (max-width: 767.98px) {
+        height: 200px;
+        background-position: 50% 20%;
+    }
   }
 
   .links-header {
@@ -85,4 +90,8 @@
         border-color: #5c636a;
 
     }
+  }
+
+  .links {
+      padding-bottom: 50px;
   }
