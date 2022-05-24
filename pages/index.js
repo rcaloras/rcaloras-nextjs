@@ -44,6 +44,9 @@ export default function Home() {
                         <a className="icon-primary" title="LinkedIn" href="https://linkedin.com/in/rcaloras" target="_blank" rel="noreferrer"><i className="bi bi-linkedin"></i></a>
                       </li>
                       <li className="fs-2">
+                      <a className="icon-primary" title="Instagram" href="https://instagram.com/rccola.vanilla" target="_blank" rel="noreferrer"><i className="bi bi-instagram"></i></a>
+                      </li>
+                      <li className="fs-2">
                       <a className="icon-primary" title="Github" href="https://github.com/rcaloras" target="_blank" rel="noreferrer"><i className="bi bi-github"></i></a>
                       </li>
                       <li className="fs-2">
