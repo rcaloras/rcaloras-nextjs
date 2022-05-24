@@ -25,14 +25,8 @@ export default function Home() {
                 </section>
                 <div className="profile-divider"/>
                 <section className="bio">
-                    <p>Software Engineering Leader who builds exceptionally high performing and diverse teams.
-                      I like to start things, build stuff, and help people and organizations grow.
-                      I'm passionate about product and love to riff on design and user experience.
-                      </p>
-                      <p>
-                      I previously founded a company and like working on side projects.
-                      I'm a musician at heart and will talk about music for hours.
-                      Always have a bag packed for my next adventure.</p>
+                    <p>{"Software Engineering Leader who builds exceptionally high performing and diverse teams. I like to start things, build stuff, and help people and organizations grow. I'm passionate about product and love to riff on design and user experience."}</p>
+                    <p>{"I previously founded a company and like working on side projects. I'm a musician at heart and will talk about music for hours. Always have a bag packed for my next adventure."}</p>
                 </section>
                 <div className="profile-divider"/>
                 <section className="links">
