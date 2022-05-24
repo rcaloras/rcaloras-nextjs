@@ -22,12 +22,24 @@ export default function Home() {
                     <section>
                         <p className="headline">Engineering Manager and Entrepreneur in New York</p>
                     </section>
-                    <div className="profile-divider"/>
                 </section>
+                <a className="btn btn-block btn-primary" id="contact-btn" href="mailto:ryan@rcaloras.com?subject=Hello">
+                  <i className="bi bi-envelope"/><span className='contact-span'>Get in touch</span>
+                </a>
                 <section className="bio">
-                    <p>Full time jump shooter, entrepreneur, and hacker. I like to start things, and build stuff.
-                            Im a musician at heart and will talk about music for hours.
-                            Always have a bag packed for my next adventure.</p>
+                    <p>Software Engineering Leader who builds exceptionally high performing and diverse teams.
+                      I like to start things, build stuff, and help people and organizations grow.
+                      I'm passionate about product and love to riff on design and user experience.
+                      </p>
+                      <p>
+                      I previously founded a company and like working on side projects.
+                      I'm a musician at heart and will talk about music for hours.
+                      Always have a bag packed for my next adventure.</p>
+                </section>
+                <div className="profile-divider"/>
+                <section className="meta">
+                  <div className="meta-header">Around the web</div>
+                  Resume Instagram.com Gilt.com Bashhub
                 </section>
             </div>
         </div>
