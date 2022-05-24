@@ -35,9 +35,13 @@ export default function Home() {
                       Always have a bag packed for my next adventure.</p>
                 </section>
                 <div className="profile-divider"/>
-                <section className="meta">
-                  <div className="meta-header">Around the web</div>
-                  Resume Instagram.com Gilt.com Bashhub
+                <section className="links">
+                  <div className="links-header">Around the web</div>
+                    <ul className="links-ul">
+                      <li title="Resume">
+                        <a className="btn btn-outline-primary"><i class="bi bi-file-person"></i> Resume</a>
+                      </li>
+                    </ul>
                 </section>
             </div>
         </div>

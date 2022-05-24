@@ -61,15 +61,20 @@ a {
 
 }
 
-.meta-header {
+
+.links-header {
   font-size: 12px;
   text-transform: uppercase;
   font-weight: 200;
   letter-spacing: 2px;
   color: #999;
-  margin-bottom: 5px;
+  margin-bottom: 15px;
 }
 
+.links-ul {
+  list-style: none;
+  padding-left: 0;
+}
 
 * {
   box-sizing: border-box;
