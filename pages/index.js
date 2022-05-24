@@ -39,13 +39,13 @@ export default function Home() {
                   <div className="links-header">Around the web</div>
                     <ul className="links-ul list-group list-group-horizontal">
                       <li className="fs-3" title="Resume">
-                        <a className="btn btn-outline-primary" href="https://bit.ly/3ND6RMd" target="_blank"><i className="bi bi-file-person"></i> Resume</a>
+                        <a className="btn btn-secondary" href="https://bit.ly/3ND6RMd" target="_blank"><i className="bi bi-file-person"></i> Resume</a>
                       </li>
                       <li className="fs-2">
-                        <a className="" title="LinkedIn" href="https://linkedin.com/in/rcaloras" target="_blank"><i class="bi bi-linkedin"></i></a>
+                        <a className="icon-primary" title="LinkedIn" href="https://linkedin.com/in/rcaloras" target="_blank"><i class="bi bi-linkedin"></i></a>
                       </li>
                       <li className="fs-2">
-                      <a className="" title="Github" href="https://github.com/rcaloras" target="_blank"><i class="bi bi-github"></i></a>
+                      <a className="icon-primary" title="Github" href="https://github.com/rcaloras" target="_blank"><i class="bi bi-github"></i></a>
                       </li>
                     </ul>
                 </section>

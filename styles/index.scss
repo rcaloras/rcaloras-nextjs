@@ -1,4 +1,7 @@
-
+// If we want to adjust colors
+// $theme-colors: (
+//  "primary": #05abe9,
+//  );
 
 @import "../node_modules/bootstrap/scss/bootstrap";
 
@@ -64,6 +67,19 @@
 
     li {
         padding: 0 10px 0 0;
+
+    }
+
+    .icon-primary {
+        color: #6c757d;
+        background-color: #FFF;
+        border-color: #6c757d;
+    }
+
+    .icon-primary:hover {
+        color: #5c636a;
+        background-color: #FFF;
+        border-color: #5c636a;
 
     }
   }
