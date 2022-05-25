@@ -26,7 +26,7 @@ export default function Home() {
                 </section>
                 <div className="profile-divider"/>
                 <section className="bio">
-                    <p>{`Software Engineering Leader who builds exceptionally high performing and diverse teams.
+                    <p>{`Software Engineering Leader who builds high performing and diverse teams.
                     I like to start things, build stuff, and help people and organizations grow.
                     Most recently, I worked for Instagram building products like Reels and the Explore tab. `}</p>
                     <p>{`I previously founded a company and have a strong entrepreneurial spirit.
