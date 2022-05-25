@@ -8,7 +8,7 @@ export default function Home() {
       <title>Ryan Caloras</title>
       <meta name="description" content="rcaloras.com" />
       <link rel="icon" href="/favicon.ico" />
-      <meta name="viewport" content="width=device-width, initial-scale=1"/>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
     </Head>
     <div className="row flex-fill vh-100">
         <div className="col-md-8 p-0">
