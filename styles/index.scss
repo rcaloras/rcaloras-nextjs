@@ -11,15 +11,14 @@
 
 .body-content {
     position: relative;
-
-    @media (max-width: 767.98px) {
-        top: 5%;
-    }
-
     top: 30%;
     padding: 0 60px;
     max-width: 560px;
     margin: auto;
+
+    @media (max-width: 767.98px) {
+        top: 5%;
+    }
 }
 
 .name-headline {
