@@ -1,8 +1,10 @@
 ## rcaloras.com
+[![Netlify Status](https://api.netlify.com/api/v1/badges/527fe444-ec96-414a-b512-127c244b2fd5/deploy-status)](https://app.netlify.com/projects/rcaloras-nextjs/deploys)
 
 Landing page for personal website www.rcaloras.com.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 ## Getting Started
 
